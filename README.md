@@ -3,13 +3,13 @@
 # *su0g / suggy*
 GitHub [**@su0g**](https://github.com/su0g)<br />
 Twitter [**@xoxo_suggy**](https://twitter.com/xoxo_suggy)<br />
-Discord [**sug#8318**]()
+Discord [**᲼᲼᲼#2385**]()
 
 <br />
 
 > **Coding Stats**
 
-```HTTP
+```HTML
 JavaScript   3 hrs 51 mins   ███████████░░░░░░░░░░░░░░   40.29 % 
 C#           1 hr 30 mins    ███████▓░░░░░░░░░░░░░░░░░   34.89 % 
 Python       1 hr 12 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   24.01 % 
