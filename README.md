@@ -2,8 +2,7 @@
 
 # *su0g / suggy*
 GitHub [**@su0g**](https://github.com/su0g)<br />
-Twitter [**@xoxo_suggy**](https://twitter.com/xoxo_suggy)<br />
-Discord [**᲼᲼᲼#2385**](https://discord.com/channels/@me)
+Discord [**᲼᲼#0569**](https://discord.com/channels/@me)
 
 <br />
 
